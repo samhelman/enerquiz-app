@@ -1,4 +1,6 @@
-[
+var jsonData =
+'''
+    [
     {
         "question_type": "Multiple Choice",
         "category": "Foundations",
@@ -1897,3 +1899,4 @@
         "correctAnswer": "arctan(0.6) "
     }
 ]
+''';
